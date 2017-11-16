@@ -6,7 +6,6 @@ Django==1.11.4
 humanize==0.5.1
 pgcli==1.7.0
 pgspecial==1.8.0
-pkg-resources==0.0.0
 prompt-toolkit==1.0.15
 psycopg2==2.7.3.1
 Pygments==2.2.0
